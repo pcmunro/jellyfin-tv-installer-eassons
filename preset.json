@@ -1,0 +1,6 @@
+{
+    "buildName":  "eassons",
+    "title":  "Jellyfin installer for eassons",
+    "assetName":  "Jellyfin-OblongIcon.wgt",
+    "jellyfinServerUrl":  "https://jellyfin.pcmunro.synology.me"
+}
